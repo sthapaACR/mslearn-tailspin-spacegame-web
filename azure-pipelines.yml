@@ -12,7 +12,7 @@ resources :
   - repository : azureSharedTemplates
     type : github
     endpoint : MyProject
-    name : sthapaACR/shared-azure-pipeline-templates
+    name : ILiuACR/shared-azure-pipeline-templates
     branch : master
  
 #define variables
